@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="bar_name">Корзина</string>
+    <string name="add_product_bar_name">Заказ продукта</string>
+    <string name="order">Заказать</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="count">0</string>
+    <string-array name="products">
+        <item>Cola</item>
+        <item>Water</item>
+        <item>Juice</item>
+    </string-array>
+</resources>
